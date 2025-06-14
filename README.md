@@ -1,5 +1,9 @@
 # PowerPulse: Household Energy Usage Forecast
 
+![image](https://github.com/user-attachments/assets/4a4bd306-6da0-4773-897f-a6f10ffaee24)
+![image](https://github.com/user-attachments/assets/8df9fc9a-ee53-4a78-a804-221eb049b987)
+![image](https://github.com/user-attachments/assets/64e08982-209f-44c6-a666-aaf735b81327)
+
 ⚡ Predict household energy consumption using historical smart meter data.
 
 ## 📊 Features
